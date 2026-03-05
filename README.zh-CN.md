@@ -1,5 +1,7 @@
 # 🎓 TRAE Learning Projects
 
+![TRAE Learning Banner](./assets/image/Learning.gif)
+
 **Vibecoding 进阶指南 - 学习园区**
 
 <!-- ![TRAE Learning Banner](./assets/image/trae-learning.gif) -->

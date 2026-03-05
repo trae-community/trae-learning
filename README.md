@@ -1,5 +1,7 @@
 # 🎓 TRAE Learning Projects
 
+![TRAE Learning Banner](./assets/image/Learning.gif)
+
 **Vibecoding Advanced Guide - Learning Hub**
 
 <!-- ![TRAE Learning Banner](./assets/image/trae-learning.gif) -->
