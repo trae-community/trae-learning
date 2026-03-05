@@ -44,7 +44,7 @@ npm run docs:build
 
 ### Online Access
 
-Visit [TRAE Learning Docs](https://trae-community.github.io/trae-learning-projects/) to view the online documentation.
+Visit [TRAE Learning Docs](https://trae-community.github.io/trae-learning/) to view the online documentation.
 
 ---
 
