@@ -56,9 +56,8 @@ Vibecoding is a new programming paradigm where developers collaborate with AI by
 
 ### Content Navigation
 
-- [📖 Guides](./guide/) - Core concepts and philosophy
-- [🛠️ Tutorials](./tutorials/) - Hands-on practice projects
-- [📚 Learning Resources](./resources/) - Recommended learning materials
+- [📖 Guides](./guide/) — What is Vibecoding, Flow & Efficiency, Prompt Engineering, Best Practices
+- [🛠️ Tutorials](./tutorials/) — 6 hands-on tutorials from beginner projects to system design
 
 ---
 
@@ -96,7 +95,6 @@ trae-learning-projects/
 │   └── theme/            # Theme customization
 ├── guide/                # Guide documents
 ├── tutorials/            # Tutorial documents
-├── resources/            # Learning resources
 ├── index.md              # Home page
 ├── LICENSE               # License
 └── package.json          # Project configuration
