@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/trae-learning-projects/',
+  base: '/trae-learning/',
   title: "TRAE Learning",
   description: "Vibecoding 进阶指南",
   appearance: 'force-dark',

@@ -44,7 +44,7 @@ npm run docs:build
 
 ### 在线访问
 
-访问 [TRAE Learning Docs](https://trae-community.github.io/trae-learning-projects/) 查看在线文档。
+访问 [TRAE Learning Docs](https://trae-community.github.io/trae-learning/) 查看在线文档。
 
 ---
 
