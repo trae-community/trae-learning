@@ -9,7 +9,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
-    logo: 'https://vitepress.dev/vitepress-logo-mini.png',
+    logo: 'https://avatars.githubusercontent.com/u/257951088',
     nav: [
       { text: '指南', link: '/guide/what-is-vibecoding' },
       { text: '社区教程', link: '/tutorials/' }
