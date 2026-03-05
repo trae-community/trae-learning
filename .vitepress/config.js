@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Vibecoding 进阶指南",
   appearance: 'force-dark',
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     logo: 'https://vitepress.dev/vitepress-logo-mini.png',
     nav: [
